@@ -7,4 +7,4 @@ imutils == 0.5.2
 
 # styleTransfer.py: 4
 # styleTransferOnVideos.py: 4
-opencv_python == 4.0.0.21
+opencv_python == 4.1.1.26
